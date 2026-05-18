@@ -107,9 +107,3 @@ Current password = `password`
 - [x] Implement selecting patient account
 - [x] Implement timeline
 - [x] Implement medication adding
-
-## Members
-
->  K. D. Sunera Avinash Chandrasiri
->  T. Anju Chamantha
->  Lahiru Udayanga
